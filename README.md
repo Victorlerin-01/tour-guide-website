@@ -2,7 +2,7 @@ Tour Guide Website
 
 A 1-page website showcasing a travel destination or tour to enjoy in Ibadan, built to practice layout, design, and styling.
 
-Features
+Features:
 - Responsive sections: hero, tours, contact
 - Styling with CSS (colors, fonts, spacing)
 
